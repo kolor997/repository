@@ -1,0 +1,24 @@
+[33mcommit b5fbd60b27f813c792df33a73cd5776b4ae4f156[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 3b8bc29 9955709
+Author: Kamil <kamil.konera1@gmail.com>
+Date:   Thu Mar 1 18:26:03 2018 +0100
+
+    Merge branch 'feature-c'
+
+[33mcommit 3b8bc2943565853eed1054c8b58732ccd842b438[m
+Author: Kamil <kamil.konera1@gmail.com>
+Date:   Thu Mar 1 18:25:15 2018 +0100
+
+    Updated b file
+
+[33mcommit 99557099afe2bb1ce8879517e7c6755af5fb45c2[m[33m ([m[1;32mfeature-c[m[33m)[m
+Author: Kamil <kamil.konera1@gmail.com>
+Date:   Thu Mar 1 18:23:58 2018 +0100
+
+    updated c.txt
+
+[33mcommit 5005a57d368459382bc284e7a98994034281cc0e[m
+Author: Kamil <kamil.konera1@gmail.com>
+Date:   Thu Mar 1 18:12:57 2018 +0100
+
+    Added useful files
